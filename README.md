@@ -9,6 +9,7 @@
 
 <img width="412" alt="image" src="https://github.com/lawlabs/opendata-mos-gorsud/assets/1498961/3857b0c4-7ebf-49b9-9fa3-ffa0d1155a52">
 
+Внимание! База данных занимает около 10 гигабайт, необходимо иметь достаточно места на диске для загрузки, импорта данных и работы программы.  Процесс загрузки файла JSON в архиве zip, извлечения его из архива, конвертации в базу данных занимает от 1 до 1,5 часов.
 
 
 <img src="https://github.com/lawlabs/opendata-mos-gorsud/blob/main/opendata-mos-gorsud-1.png">
