@@ -18,7 +18,7 @@
 
 Временная ссылка на загрузку программы: https://legalcalc.ru/downloads/MCCBase_1.1.0.8.exe
 
+Видео, демонстрирующее работу приложения:
+[https://www.youtube.com/embed/_R57_KyyeEA?si=iDWzf0HCWlGUyXvR](https://youtu.be/_R57_KyyeEA?si=uDnIICOkCmaVQv1C)
+
 Вопросы, предложения: info@lawlabs.ru 
-
-https://www.youtube.com/embed/_R57_KyyeEA?si=iDWzf0HCWlGUyXvR
-
