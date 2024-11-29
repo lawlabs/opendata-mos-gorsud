@@ -1,4 +1,6 @@
-# opendata-mos-gorsud
+
+# opendata-mos-gorsud![Icon Art Fill (2)](https://github.com/user-attachments/assets/527b4cc3-18cb-4499-8a94-fb022ac5ae40)
+
 Инструмент для изучения базы данных дел Мосгорсуда, находящейся по ссылке: https://data.mos-gorsud.ru/opendata. Данные обновляются раз в неделю.
 
 Программа **opendata-mos-gorsud** работает только с базой "Перечень всех дел, находящихся в судах общей юрисдикции города Москвы" (самой большой по размеру):
