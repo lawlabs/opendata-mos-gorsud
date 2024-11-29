@@ -1,6 +1,3 @@
-
-# opendata-mos-gorsud![Icon Art Fill (2)](https://github.com/user-attachments/assets/527b4cc3-18cb-4499-8a94-fb022ac5ae40)
-
 # opendata-mos-gorsud
 
 <img src="https://github.com/user-attachments/assets/527b4cc3-18cb-4499-8a94-fb022ac5ae40" alt="Icon" style="width: 50px; height: 50px; float: left; margin-right: 10px;">
