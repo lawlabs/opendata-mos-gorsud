@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/527b4cc3-18cb-4499-8a94-fb022ac5ae40" alt="Icon" style="width: 50px; height: 50px; float: left; margin-right: 10px;">
 
-Инструмент для изучения базы данных дел Мосгорсуда, находящейся по ссылке: https://data.mos-gorsud.ru/opendata. Данные обновляются раз в неделю.
+Инструмент для изучения базы данных дел Мосгорсуда, находящейся по ссылке: https://data.mos-gorsud.ru/opendata. Данные обновляются раз в неделю (проверили на ноябрь 2024 года - данные доступны).
 
 Программа **opendata-mos-gorsud** работает только с базой "Перечень всех дел, находящихся в судах общей юрисдикции города Москвы" (самой большой по размеру):
 <img width="845" alt="image" src="https://github.com/lawlabs/opendata-mos-gorsud/assets/1498961/088f67ca-a6d5-4959-ad60-e7d60de0d561">.
