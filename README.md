@@ -14,6 +14,11 @@
 
 <img width="834" alt="image" src="https://github.com/user-attachments/assets/4dd11a2b-6055-4500-80e3-4da09b09f957">
 
+На 08.12.2024 года:
+
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/52cf5f05-fd45-4c39-866e-016f89430d45" />
+
+
 Скачивать самостоятельно не требуется, для загрузки или обновления, выберите пункт меню "Инструменты" - "Обновить базу с сайта Мосгорсуда":
 
 <img width="412" alt="image" src="https://github.com/lawlabs/opendata-mos-gorsud/assets/1498961/3857b0c4-7ebf-49b9-9fa3-ffa0d1155a52">
