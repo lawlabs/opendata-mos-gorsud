@@ -20,6 +20,7 @@
 
 На 16.01.2026 года:
 
+<img width="827" height="188" alt="image" src="https://github.com/user-attachments/assets/9d1d6fc0-7ecd-41d2-a2c4-db30793d0c5f" />
 
 
 
