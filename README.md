@@ -29,6 +29,13 @@
 <img width="830" height="190" alt="image" src="https://github.com/user-attachments/assets/c070ed97-96c3-4bfa-882c-49f6a6d2b033" />
 
 
+## Версия для macOS
+
+<img width="1277" height="857" alt="image" src="https://github.com/user-attachments/assets/7b0b79d8-3050-4d08-9e1d-1690a7a00c5a" />
+
+Версия для macOS готовится к выкладке в App Store, следите за новостями.
+
+## Версия для Windows
 
 Скачивать самостоятельно не требуется, для загрузки или обновления, выберите пункт меню "Инструменты" - "Обновить базу с сайта Мосгорсуда":
 
